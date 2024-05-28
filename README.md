@@ -1,4 +1,5 @@
 # AutomatedEmail
+![Example Email](https://github.com/Iggy-V/AutomatedEmail/assets/82603314/9cbc9658-3348-47eb-95e4-9b6594a50a51)
 
 Send an email everyday with a form to track my mood, sleep, exercise, etc. 
 
