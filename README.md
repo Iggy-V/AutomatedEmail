@@ -11,5 +11,3 @@ Things that is included in the email:
 - Wheather for the upcoming week
 - Daily review form
 
-Things to do:
-- Upload the dependencies package so for easy deployment to AWS
